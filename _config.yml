@@ -24,9 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Saint Basquiatt
-email: saintpetre99@gmail.com
-author: Jeane
+title: Peter Jaimbo
+email: peterjaimbo97@gmail.com
+author: Jaimbo
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -43,7 +43,7 @@ author: Jeane
 copyright: "Unpublished Work (cleft)-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Jean Basquiat, a trailblazer of the Neo-expressionist movement, wielded a graffiti-inspired brush to craft a visual symphony on the canvas. His frenetic compositions, pulsating with raw energy, bridged the gap between street art and high culture.
+  Electrical and Electronics Engineering final-year student at Jomo Kenyatta University, passionate about the intersection of technology and artificial intelligence, seeking to bridge the gap with online machine learning courses to revolutionize industries and optimize systems.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: "" # the favicon for your site
