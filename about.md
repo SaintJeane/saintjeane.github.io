@@ -7,27 +7,30 @@ title: About
 
 Hi, nice to meet you.
 
-### Introduction:
+### About me:
 
-Jean-Michel Basquiat (1960–1988), an artistic luminary of the late 20th century, emerged as a revolutionary force in the American art scene. His meteoric rise from the streets of New York City brought forth a dynamic fusion of urban grit and profound symbolism.
+My name is Peter Jaimbo, a final-year student pursuing a Bachelor's degree in Electrical and Electronics Engineering at Jomo Kenyatta University of Agriculture and Technology. I am writing to express my keen interest in your online learning and training courses.
 
-### Urban roots:
+### Academic Background:
 
-Hailing from the graffiti subculture, Basquiat's early works were an explosion of vibrant colors and bold brushstrokes. Influenced by the raw energy of street art, he translated the immediacy of the urban experience onto canvas, creating a visual language that resonated with authenticity.
+My academic journey in Electrical and Electronics Engineering has equipped me with a solid foundation in mathematical principles and analytical thinking. This academic background has instilled in me a passion for problem-solving and a drive to explore innovative solutions. I am specifying in the field of heavy current, which  includes the distribution of electricity, domestic wiring in civil and industrial industries, and also the power systems and electrical machinery. 
 
-### Themes and Symbolism:
+### My interest in Machine Learning:
 
-Beyond the surface, Basquiat's paintings delved into intricate themes of race, identity, and societal struggles. His compositions, laden with symbolic imagery, became a visual commentary on the complexities of the human condition, challenging viewers to decipher the layers of meaning within each stroke.
+During my studies, I have been particularly captivated by the intersection of electronics, technology and artificial intelligence. The field of machine learning, with its potential to transform industries and solve complex problems, has become a focal point of my academic and professional aspirations.
 
-### Global Acclaim and Tragic End:
+### Relevance to My Current Studies:
 
-Basquiat's unique blend of street culture and traditional art forms propelled him to international acclaim, disrupting the art world's status quo. However, his ascent was abruptly halted at the age of 27, marking the untimely end of a brilliant career that had barely begun.
+I believe that a strong foundation in machine learning is integral to the future of technology, and I am eager to bridge the gap between my current expertise in electrical and electronics engineering and the evolving landscape of artificial intelligence.
 
-### Enduring Legacy:
+### Why This Training Matters to Me:
 
-Despite his premature departure, Basquiat's impact endures, reshaping contemporary art and inspiring a new generation. His oeuvre, a testament to the intersection of art, culture, and activism, continues to captivate audiences, provoking introspection and redefining the boundaries of artistic expression.
+Your esteemed academy stands out to me as a hub of excellence in providing comprehensive online courses in machine learning. The opportunity to learn from experts in the field and gain hands-on experience in cutting-edge technologies aligns perfectly with my career goals and my future endeavours.
 
-#### To read more about him:
+#### Future Goals:
+My ambition is to leverage the knowledge and skills gained from your program to contribute to advancements in AI applications within the realm of electrical and electronics engineering. I envision applying machine learning techniques to optimize systems, enhance efficiency, and contribute to the technological progress of our rapidly evolving world.
 
-Check the following link; https://www.biography.com/artists/jean-michel-basquiat
+#### Conclusion:
+
+I am enthusiastic about the prospect of joining your online machine learning courses, and I am confident that the skills and insights gained will not only complement my academic background but also empower me to make meaningful contributions to the field. Thank you for considering my application, and I look forward to the opportunity to contribute to and learn from your esteemed institution.
 
